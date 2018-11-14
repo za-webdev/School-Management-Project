@@ -1,0 +1,142 @@
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\ApplicationInsights.config
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\roslyn\csc.exe
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\roslyn\System.Collections.Immutable.dll
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\roslyn\vbc.exe
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\roslyn\VBCSCompiler.exe
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\roslyn\VBCSCompiler.exe.config
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\ProjectSchool.dll.config
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\ProjectSchool.dll
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\ProjectSchool.pdb
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\Microsoft.AI.Web.dll
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\Microsoft.AI.WindowsServer.dll
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\Microsoft.ApplicationInsights.dll
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\Microsoft.AI.Web.xml
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\Microsoft.AI.WindowsServer.xml
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\Microsoft.ApplicationInsights.xml
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\obj\Debug\ProjectSchool.csprojResolveAssemblyReference.cache
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\obj\Debug\ProjectSchool.dll
+c:\users\zali\documents\visual studio 2015\Projects\ProjectSchool\ProjectSchool\obj\Debug\ProjectSchool.pdb
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\ApplicationInsights.config
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\roslyn\csc.exe
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\roslyn\vbc.exe
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\roslyn\VBCSCompiler.exe
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\ProjectSchool.dll.config
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\ProjectSchool.dll
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\ProjectSchool.pdb
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\Microsoft.AI.Web.dll
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\Microsoft.ApplicationInsights.dll
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\Microsoft.AI.Web.xml
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\Microsoft.ApplicationInsights.xml
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\obj\Debug\ProjectSchool.csprojResolveAssemblyReference.cache
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\obj\Debug\ProjectSchool.dll
+C:\Users\zali\Documents\C#projects\ProjectSchool2\ProjectSchool\obj\Debug\ProjectSchool.pdb
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\ApplicationInsights.config
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\roslyn\csc.exe
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\roslyn\vbc.exe
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\roslyn\VBCSCompiler.exe
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\ProjectSchool.dll.config
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\ProjectSchool.dll
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\ProjectSchool.pdb
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\Microsoft.AI.Web.dll
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\Microsoft.ApplicationInsights.dll
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\Microsoft.AI.Web.xml
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\Microsoft.ApplicationInsights.xml
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\obj\Debug\ProjectSchool.csprojResolveAssemblyReference.cache
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\obj\Debug\ProjectSchool.dll
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\obj\Debug\ProjectSchool.pdb
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\DbLayer.dll
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\ServiceLayer.dll
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\DbLayer.pdb
+C:\Users\zali\Desktop\ProjectSchoolTest\ProjectSchool\bin\ServiceLayer.pdb
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\ApplicationInsights.config
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\roslyn\csc.exe
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\roslyn\vbc.exe
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\roslyn\VBCSCompiler.exe
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\ProjectSchool.dll.config
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\ProjectSchool.dll
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\ProjectSchool.pdb
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\DbLayer.dll
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\Microsoft.AI.Web.dll
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\ServiceLayer.dll
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\DbLayer.pdb
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\ServiceLayer.pdb
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\Microsoft.AI.Web.xml
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\obj\Debug\ProjectSchool.csprojAssemblyReference.cache
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\obj\Debug\ProjectSchool.csproj.CoreCompileInputs.cache
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\obj\Debug\ProjectSchool.csproj.CopyComplete
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\obj\Debug\ProjectSchool.dll
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ProjectSchool\obj\Debug\ProjectSchool.pdb

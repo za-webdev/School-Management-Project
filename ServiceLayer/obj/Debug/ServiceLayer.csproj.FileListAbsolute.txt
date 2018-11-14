@@ -1,0 +1,16 @@
+C:\Users\zali\Desktop\ProjectSchoolTest\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\Users\zali\Desktop\ProjectSchoolTest\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\Users\zali\Desktop\ProjectSchoolTest\ServiceLayer\bin\Debug\DbLayer.dll
+C:\Users\zali\Desktop\ProjectSchoolTest\ServiceLayer\bin\Debug\DbLayer.pdb
+C:\Users\zali\Desktop\ProjectSchoolTest\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+C:\Users\zali\Desktop\ProjectSchoolTest\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Users\zali\Desktop\ProjectSchoolTest\ServiceLayer\obj\Debug\ServiceLayer.pdb
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ServiceLayer\bin\Debug\DbLayer.dll
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ServiceLayer\bin\Debug\DbLayer.pdb
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ServiceLayer\obj\Debug\ServiceLayer.csprojAssemblyReference.cache
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\ServiceLayer\obj\Debug\ServiceLayer.pdb

@@ -1,0 +1,11 @@
+C:\Users\zali\Desktop\ProjectSchoolTest\DbLayer\bin\Debug\DbLayer.dll
+C:\Users\zali\Desktop\ProjectSchoolTest\DbLayer\bin\Debug\DbLayer.pdb
+C:\Users\zali\Desktop\ProjectSchoolTest\DbLayer\obj\Debug\DbLayer.dll
+C:\Users\zali\Desktop\ProjectSchoolTest\DbLayer\obj\Debug\DbLayer.pdb
+C:\Users\zali\Desktop\ProjectSchoolTest\DbLayer\obj\Debug\DbLayer.csprojResolveAssemblyReference.cache
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\DbLayer\bin\Debug\DbLayer.dll
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\DbLayer\bin\Debug\DbLayer.pdb
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\DbLayer\obj\Debug\DbLayer.csprojAssemblyReference.cache
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\DbLayer\obj\Debug\DbLayer.csproj.CoreCompileInputs.cache
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\DbLayer\obj\Debug\DbLayer.dll
+C:\Users\ZAli\Downloads\ProjectSchoolTest\ProjectSchoolTest\DbLayer\obj\Debug\DbLayer.pdb
